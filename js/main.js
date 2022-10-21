@@ -89,4 +89,3 @@ const generateGalleryPhotos = (numberPhotos) => {
 };
 
 generateGalleryPhotos(25);
-console.log(generateGalleryPhotos(25));
